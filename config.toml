@@ -1,5 +1,5 @@
 base_url = "https://preedence.github.io/marco/"
-title = "Hallo"
+title = "Marco"
 
 theme = "hallo"
 
@@ -11,18 +11,19 @@ build_search_index = false
 highlight_code = false
 
 [extra]
-greeting = "Hello!"
-iam = "I am"
+greeting = "Ciao!"
+iam = "Io sono"
 links = [
-    { title = "E-Mail", url = "mailto:mail@example.org", iconset = "fas", icon = "envelope" },
-    { title = "GitHub", url = "https://github.com", icon = "github" },
-    { title = "Twitter", url = "https://twitter.com", icon = "twitter" }
+    { title = "E-Mail", url = "mailto:marco@farina.cloud", iconset = "fas", icon = "envelope" },
+    { title = "GitHub", url = "https://preedence.github.io/marco/", icon = "github" },
+	{ title = "LinkedIn", url = "https://www.linkedin.com/in/marcofarinait/", icon = "linkedin" },
+    { title = "Strava", url = "https://www.strava.com/athletes/creedence", icon = "strava" }
 ]
 
 [extra.author]
-name = "Hallo"
+name = "Marco"
 
 [extra.theme]
-background = "#6FCDBD"
+background = "tomato"
 foreground = "#FFF"
 hover = "#333"
