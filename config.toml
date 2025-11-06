@@ -17,6 +17,8 @@ links = [
     { title = "E-Mail", url = "mailto:marco@farina.cloud", iconset = "fas", icon = "envelope" },
     { title = "GitHub", url = "https://preedence.github.io/marco/", icon = "github" },
 	{ title = "LinkedIn", url = "https://www.linkedin.com/in/marcofarinait/", icon = "linkedin" },
+	{ title = "Instagram", url = "https://www.instagram.com/cicloalcano", icon = "instagram" }
+    { title = "Telegram", url = "https://t.me/epolcyc", icon = "telegram" }
     { title = "Strava", url = "https://www.strava.com/athletes/creedence", icon = "strava" }
 ]
 
