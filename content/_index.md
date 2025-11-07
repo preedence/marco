@@ -2,5 +2,5 @@
 
 +++
 
-Questa è una pagina statica dove potete trovare i collegamenti ai miei profili social.
+Questa è una pagina statica con i collegamenti ai miei profili social.
 
