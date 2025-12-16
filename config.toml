@@ -15,7 +15,7 @@ greeting = "Ciao!"
 iam = "Io sono"
 links = [
     { title = "E-Mail", url = "mailto:marco@farina.cloud", iconset = "fas", icon = "envelope" },
-    { title = "GitHub", url = "https://preedence.github.io/marco/", icon = "github" },
+    { title = "GitHub", url = "https://github.com/preedence", icon = "github" },
 	{ title = "LinkedIn", url = "https://www.linkedin.com/in/marcofarinait/", icon = "linkedin" },
     { title = "Telegram", url = "https://t.me/epolcyc", icon = "telegram" },
     { title = "Mastodon", url = "https://mastodon.social/@cicloalcano", icon = "mastodon" },

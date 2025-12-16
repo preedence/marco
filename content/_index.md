@@ -2,5 +2,5 @@
 title = "Marco"
 +++
 
-e questi sono i collegamenti ai miei profili social
+Questi sono i collegamenti ai miei profili social
 
